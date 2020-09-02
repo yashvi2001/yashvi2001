@@ -11,4 +11,5 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 <a href="https://www.linkedin.com/in/yashvi-mahapatra-0731191a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_i.am.yam_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/yashvimahapatra" target="_blank"><img src="https://img.shields.io/twitter/url?color=Grey&label=Twitter&logo=Twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fyashvimahapatra" alt="twitter"></a>
+
 </div>
