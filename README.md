@@ -5,7 +5,6 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 
  <p align="center"> <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="500"/></p>
 
-
 <div align="center">
  <i>Follow me:</i><br>
 
