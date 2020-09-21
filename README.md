@@ -9,7 +9,7 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
   
 
 
-<div align="center">
+<div>
  
  <i>Follow me:</i><br>
 
@@ -18,7 +18,7 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 <a href="https://twitter.com/yashvimahapatra" target="_blank"><img src="https://img.shields.io/twitter/url?color=white&label=Twitter&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fyashvimahapatra" alt="twitter"></a>
 
 </div>
- <div align="center">
+ <div>
  
   <i>Languages and Tools</i><br>
   
