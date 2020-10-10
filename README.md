@@ -1,11 +1,10 @@
 ### Hi there 👋
 I am Yashvi! I am an aspiring Full-Stack-Developer
 
-
- <p align="center"> <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="500"/></p>
- <br/>
-
-  
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashvi2001&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi2001&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
 
 
 
