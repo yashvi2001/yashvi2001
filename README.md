@@ -1,5 +1,12 @@
-### Hi there 👋
-I am Yashvi! I am an aspiring Full-Stack-Developer
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  </h1>
+  </h1>
+
+<p align="center">
+  <em>
+    This is ME, Yashvi Mahapatra, a student  from <b>KIIT University</b>, Bhubneshwar. <br>
+    An Aspiring <b> Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></p>
+<br>
 
 <img   src="https://media-exp1.licdn.com/dms/image/C4D16AQHmWZ2i27b_nA/profile-displaybackgroundimage-shrink_350_1400/0/1608474784684?e=1614211200&v=beta&t=9T4AkKy86W1SGomHOf7BMwXWvEFJkHh1G90cA-ybB10" />
 
