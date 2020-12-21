@@ -25,16 +25,21 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+
+
 </div>
-<br />
-<div>
- <br/>
+<div  >
  <i>Follow me:</i>
+   <a href="https://twitter.com/yashvimahapatra">
+    <img align="center" alt="Yashvi Mahapatra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a> 
+
+<a href="https://www.linkedin.com/in/yashvi-mahapatra-0731191a3/">
+    <img align="center" alt="Yashvi Mahapatra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
  
-<br>
-<br>
-<a href="https://www.linkedin.com/in/yashvi-mahapatra-0731191a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_i.am.yam_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/yashvimahapatra" target="_blank"><img src="https://img.shields.io/twitter/url?color=white&label=Twitter&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fyashvimahapatra" alt="twitter"></a>
+  <a href="https://www.instagram.com/_i.am.yam_/?hl=en">
+    <img align="center" alt="Yashvi Mahapatra| Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a
 
 </div>
