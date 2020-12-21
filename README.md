@@ -4,10 +4,9 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 <img   src="https://media-exp1.licdn.com/dms/image/C4D16AQHmWZ2i27b_nA/profile-displaybackgroundimage-shrink_350_1400/0/1608474784684?e=1614211200&v=beta&t=9T4AkKy86W1SGomHOf7BMwXWvEFJkHh1G90cA-ybB10" />
 
 
+###   Languages and Tools
 
- <div>
- 
-  <i>Languages and Tools</i><br>
+
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C lang" width="26px" src="https://i.imgur.com/md14F2E.png" />
@@ -24,22 +23,22 @@ I am Yashvi! I am an aspiring Full-Stack-Developer
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
 
-
-
-</div>
 <div  >
- <i>Follow me:</i>
+ 
+ ### Follow Me:-
+ 
    <a href="https://twitter.com/yashvimahapatra">
-    <img align="center" alt="Yashvi Mahapatra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Yashvi Mahapatra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
 <a href="https://www.linkedin.com/in/yashvi-mahapatra-0731191a3/">
-    <img align="center" alt="Yashvi Mahapatra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Yashvi Mahapatra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
   <a href="https://www.instagram.com/_i.am.yam_/?hl=en">
-    <img align="center" alt="Yashvi Mahapatra| Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Yashvi Mahapatra| Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a
 
 </div>
