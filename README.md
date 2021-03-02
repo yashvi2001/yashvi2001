@@ -8,7 +8,7 @@
     An Aspiring <b> Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></p>
 <br>
 
-<img   src="https://media-exp1.licdn.com/dms/image/C4D16AQHmWZ2i27b_nA/profile-displaybackgroundimage-shrink_350_1400/0/1608474784684?e=1614211200&v=beta&t=9T4AkKy86W1SGomHOf7BMwXWvEFJkHh1G90cA-ybB10" />
+<img   src="https://raw.githubusercontent.com/yashvi2001/yashvi2001/master/1608474784684.jpg" />
 
 
 ###   Languages and Tools
