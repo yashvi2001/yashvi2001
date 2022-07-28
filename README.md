@@ -44,7 +44,7 @@
     <img align="left" alt="Yashvi Mahapatra | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
-  <a href="https://www.instagram.com/yash._.bee/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/yash_bee/?hl=en" target="_blank">
     <img align="left" alt="Yashvi Mahapatra| Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a
 
