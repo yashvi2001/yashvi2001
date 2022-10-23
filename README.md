@@ -34,7 +34,7 @@
 
 <div  >
  
- ### Follow Me:-
+ ### Let's Connect on:-
  
    <a href="https://twitter.com/yashvimahapatra" target="_blank">
     <img align="left" alt="Yashvi Mahapatra | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
