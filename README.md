@@ -4,8 +4,6 @@
 
 <p align="center">
   <em>
-    This is ME, Yashvi Mahapatra, a student  from <b>KIIT University</b>, Bhubneshwar. <br>
-    An Aspiring <b> Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></p>
 <br>
 
 <img   src="https://raw.githubusercontent.com/yashvi2001/yashvi2001/master/1608474784684.jpg" />
